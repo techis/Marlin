@@ -190,3 +190,9 @@ __pycache__
 # Simulation / Native
 eeprom.dat
 imgui.ini
+
+
+# Dont publish my marlin config
+Marlin/Configurat*.h
+_Bootscreen.h
+_Statusscreen.h
