@@ -165,6 +165,7 @@ vc-fileutils.settings
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/*.db
+*.code-workspace
 
 # cmake
 CMakeLists.txt
@@ -193,6 +194,5 @@ imgui.ini
 
 
 # Dont publish my marlin config
-Marlin/Configurat*.h
 _Bootscreen.h
 _Statusscreen.h
